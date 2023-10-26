@@ -16,7 +16,7 @@ const Welcome = () => {
         style={styles.background}
       >
         <View style={styles.content}>
-          <Text style={styles.text}>Birthday wishes to loved one's</Text>
+          <Text style={styles.text}>Birthday Wishes</Text>
           <TouchableOpacity style={styles.button} onPress={handleStartPress}>
             <Text style={styles.buttonText}>Let's start</Text>
           </TouchableOpacity>
